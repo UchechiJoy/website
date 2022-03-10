@@ -1,0 +1,126 @@
+  body{
+    background-color: rgba(247,253,253,1) ;
+  }
+  #v5_19 {
+    color: rgba(192,192,192,1);
+    font-family: Raleway;
+    font-weight: Medium;
+    font-size: 19px;
+    opacity: 1;
+  
+  }
+  #v5_20 {
+    color: rgba(192,192,192,1);
+    font-family: Raleway;
+    font-weight: Medium;
+    font-size: 19px;
+    opacity: 1;
+    
+  }
+  #v5_21 {
+    color: rgba(192,192,192,1);
+    font-family: Raleway;
+    font-weight: Medium;
+    font-size: 19px;
+    opacity: 1;
+  }
+  #v5_22 {
+    color: rgba(192,192,192,1);
+    font-family: Raleway;
+    font-weight: Medium;
+    font-size: 19px;
+    opacity: 1;
+  }
+  #name {
+    color: #fff;
+  }
+
+  #v5_26 {
+    color: rgba(254,117,142,1);
+    font-family: Roboto;
+    font-weight: SemiBold;
+    font-size: 25px;
+    opacity: 1;
+  }
+
+  .chat-button{
+    background-color: #009DAE;
+    color: white;
+  }
+  .icon-design{
+    display: flex;
+    padding: 0px 5px 0px;
+    border: 3px solid #009DAE;
+    border-radius: 50%;
+    color: #009DAE;
+  }
+
+
+  .icon-group{
+    width: 30%;
+    margin-top: 2rem;
+    color: #FE758E;
+  }
+
+  .hr-line{
+    width: 100%;
+  }
+
+  .icon-style{
+    display: flex;
+    /* align-items: center;
+    width: fit-content; */
+    padding: 0px 5px 0px;
+    border: 3px solid #FE758E;
+    border-radius: 50%;
+    color: #FE758E,
+  }
+  .arrow-styleone{
+    background-color: #C1C1C1;
+    padding: 0px 5px 0px;
+    color: white;
+    border-radius: 50%;
+    margin-right: 10px;
+
+
+
+  }
+  .arrow-styletwo{
+    background-color:  #FE758E;
+    padding: 0px 5px 0px;
+    color: white;
+    border-radius: 50%;
+  }
+
+  .card{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding:1px 10px 10px;
+    height: 130px;
+  }
+  .card{
+   min-height: 20rem;
+  }
+  .about-page{
+    height: 100vh;
+    width: 100vw;
+
+  }
+  hr{
+    width: 100%;
+    margin: 1rem 0;
+  }
+ .footer{
+   min-height: 1rem;
+   width: 100%;
+     position: absolute;
+   bottom: 0;
+   padding: 2rem 0;
+   text-align: center;
+ }
+
+  
+  
+
+  
